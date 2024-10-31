@@ -1,0 +1,10 @@
+Function Name                           Count     Percentage          Begin Line          End Line            ID        Sum Percentage
+main                                    9         20.45%                   13471               14286               1         20.45%
+fillbuf___7                             7         15.91%                   9963                10163               2         36.36%
+write_line                              7         15.91%                   11726               11783               3         52.27%
+initbuf                                 6         13.64%                   9718                9745                4         65.91%
+xfopen                                  2         4.55%                   9009                9023                5         70.46%
+default_sort_size                       2         4.55%                   9589                9645                6         75.01%
+sort_buffer_size                        2         4.55%                   9645                9718                7         79.56%
+die                                     1         2.27%                   8502                8519                8         81.83%
+sort                                    1         2.27%                   13075               13223               9         84.1%

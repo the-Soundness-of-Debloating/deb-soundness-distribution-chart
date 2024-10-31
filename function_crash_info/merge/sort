@@ -1,0 +1,21 @@
+Function Name                           Count     Percentage          Begin Line          End Line            ID        Sum Percentage
+main                                       54          31.95%               13472               14288         1          31.95
+write_line                                 26          15.38%               11727               11784         2          47.34
+fillbuf___7                                18          10.65%                9964               10164         3          57.99
+initbuf                                    14           8.28%                9719                9746         4          66.27
+xfopen                                      8           4.73%                9010                9024         5          71.01
+sort_buffer_size                            6           3.55%                9646                9719         6          74.56
+fadvise                                     5           2.96%                8296                8307         7          77.51
+stream_open                                 5           2.96%                8987                9010         8          80.47
+xrealloc                                    2           1.18%                1968                1987         9          81.66
+fopen_safer                                 2           1.18%                7768                7822        10          82.84
+die                                         2           1.18%                8503                8520        11          84.02
+default_sort_size                           2           1.18%                9590                9646        12          85.21
+quotearg_buffer_restyled                    1           0.59%                3806                4756        13          85.80
+set_program_name                            1           0.59%                4980                5013        14          86.39
+rpl_fflush                                  1           0.59%                8110                8130        15          86.98
+usage                                       1           0.59%                8520                8709        16          87.57
+compare                                     1           0.59%               11670               11727        17          88.17
+badfieldspec                                1           0.59%               13250               13266        18          88.76
+incompatible_options                        1           0.59%               13266               13274        19          89.35
+sort                                        1           0.59%               13076               13224        20          89.94

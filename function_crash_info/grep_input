@@ -1,0 +1,23 @@
+Function Name                           Count     Percentage          Begin Line          End Line            ID        Sum Percentage
+grep                                    11        15.71%                   21056               21275               1         15.71%
+quotearg_buffer_restyled                9         12.86%                   1911                3011                2         28.57%
+kwsincr                                 5         7.14%                   10895               11222               3         35.71%
+GEAcompile                              4         5.71%                   12457               12588               4         41.42%
+dfasyntax                               4         5.71%                   13248               13289               5         47.13%
+main                                    3         4.29%                   22426               23292               6         51.42%
+xstrdup                                 2         2.86%                   1131                1143                7         54.28%
+gettext_quote                           2         2.86%                   1855                1911                8         57.14%
+link_count_optimize_ok                  2         2.86%                   6897                7408                9         60%
+fillbuf                                 2         2.86%                   20012               20150               10        62.86%
+print_filename                          2         2.86%                   20360               20370               11        65.72%
+grep_command_line_arg                   2         2.86%                   21747               21780               12        68.58%
+xstrtoimax                              1         1.43%                   707                 933                 13        70.01%
+x2nrealloc                              1         1.43%                   975                 1002                14        71.44%
+fts_build                               1         1.43%                   7500                8051                15        72.87%
+Fexecute                                1         1.43%                   10632               10812               16        74.3%
+kwsalloc                                1         1.43%                   10834               10895               17        75.73%
+find_pred                               1         1.43%                   13507               13533               18        77.16%
+copy                                    1         1.43%                   15993               16010               19        78.59%
+insert                                  1         1.43%                   16020               16073               20        80.02%
+dfaexec                                 1         1.43%                   17852               18040               21        81.45%
+skipped_file                            1         1.43%                   19892               19953               22        82.88%

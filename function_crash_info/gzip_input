@@ -1,0 +1,21 @@
+Function Name                           Count     Percentage          Begin Line          End Line            ID        Sum Percentage
+huft_build                              103       25%                   2096                2418                1         25%
+inflate_codes                           76        18.45%                   2442                2742                2         43.45%
+ct_tally                                41        9.95%                   5011                5086                3         53.4%
+longest_match                           32        7.77%                   5332                5466                4         61.17%
+inflate_dynamic                         30        7.28%                   2960                3372                5         68.45%
+gen_codes                               27        6.55%                   4528                4575                6         75%
+build_tree___0                          18        4.37%                   4575                4702                7         79.37%
+send_bits                               13        3.16%                   3854                3898                8         82.53%
+compress_block                          10        2.43%                   5086                5164                9         84.96%
+ct_init                                 7         1.7%                   4116                4305                10        86.66%
+scan_tree                               7         1.7%                   4702                4780                11        88.36%
+gen_bitlen                              6         1.46%                   4399                4528                12        89.82%
+deflate                                 6         1.46%                   5651                5806                13        91.28%
+updcrc                                  3         0.73%                   1591                1619                14        92.01%
+flush_block                             3         0.73%                   4936                5011                15        92.74%
+get_method                              3         0.73%                   7607                8168                16        93.47%
+unzip                                   2         0.49%                   3576                3843                17        93.96%
+inflate_block                           1         0.24%                   3372                3459                18        94.2%
+bi_windup                               1         0.24%                   3918                3968                19        94.44%
+treat_stdin                             1         0.24%                   6778                6956                20        94.68%

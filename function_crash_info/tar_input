@@ -1,0 +1,23 @@
+Function Name                           Count     Percentage          Begin Line          End Line            ID        Sum Percentage
+add_exclude_file                        16        10.74%                   24153               24315               1         10.74%
+read_header                             12        8.05%                   12318               12623               2         18.79%
+from_header                             11        7.38%                   12817               13162               3         26.17%
+chdir_do                                9         6.04%                   15023               15081               4         32.21%
+set_quoting_style                       9         6.04%                   28456               28468               5         38.25%
+xnrealloc_inline                        8         5.37%                   30073               30096               6         43.62%
+read_and                                7         4.7%                   11934               12221               7         48.32%
+xnmalloc_inline                         7         4.7%                   30042               30066               8         53.02%
+to_chars                                6         4.03%                   4076                4305                9         57.05%
+excluded_filename                       6         4.03%                   24059               24133               10        61.08%
+fnmatch_no_wildcards                    5         3.36%                   24007               24059               11        64.44%
+safe_write                              5         3.36%                   29782               29814               12        67.8%
+name_add                                4         2.68%                   16011               16032               13        70.48%
+extract_archive                         3         2.01%                   7896                8770                14        72.49%
+safer_name_suffix                       3         2.01%                   17352               17448               15        74.5%
+quotearg_buffer                         3         2.01%                   29569               29601               16        76.51%
+name_from_list                          2         1.34%                   17154               17185               17        77.85%
+tar_stat_destroy                        2         1.34%                   22979               22994               18        79.19%
+set_next_block_after                    1         0.67%                   965                 985                 19        79.86%
+namelist_match                          1         0.67%                   16538               16602               20        80.53%
+names_notfound                          1         0.67%                   16731               16805               21        81.2%
+main                                    1         0.67%                   22798               22973               22        81.87%

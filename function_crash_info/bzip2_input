@@ -1,0 +1,26 @@
+Function Name                           Count     Percentage          Begin Line          End Line            ID        Sum Percentage
+BZ2_decompress                          296       55.12%                   690                 3156                1         55.12%
+sendMTFValues                           56        10.43%                   3385                4528                2         65.55%
+mainGtU                                 33        6.15%                   10980               11191               3         71.7%
+mainSort                                29        5.4%                   11593               12008               4         77.1%
+BZ2_hbCreateDecodeTables                16        2.98%                   550                 668                 5         80.08%
+default_bzalloc                         15        2.79%                   4724                4735                6         82.87%
+fallbackSort                            15        2.79%                   10650               10980               7         85.66%
+compressStream                          13        2.42%                   7203                7397                8         88.08%
+myMalloc                                5         0.93%                   9504                9516                9         89.01%
+snocString                              4         0.74%                   9527                9560                10        89.75%
+main                                    4         0.74%                   9638                10375               11        90.49%
+BZ2_hbMakeCodeLengths                   3         0.56%                   277                 513                 12        91.05%
+default_bzfree                          3         0.56%                   4735                4745                13        91.61%
+add_pair_to_block                       3         0.56%                   4899                4965                14        92.17%
+BZ2_bzWriteClose64                      3         0.56%                   6461                6614                15        92.73%
+myfeof___0                              3         0.56%                   7188                7203                16        93.29%
+makeMaps_d                              2         0.37%                   668                 690                 17        93.66%
+copy_input_until_stop                   2         0.37%                   4976                5098                18        94.03%
+BZ2_blockSort                           2         0.37%                   12008               12097               19        94.4%
+BZ2_hbAssignCodes                       1         0.19%                   513                 550                 20        94.59%
+generateMTFValues                       1         0.19%                   3240                3385                21        94.78%
+BZ2_bzRead                              1         0.19%                   6774                6920                22        94.97%
+fileExists                              1         0.19%                   8260                8279                23        95.16%
+compress                                1         0.19%                   8423                8811                24        95.35%
+fallbackQSort3                          1         0.19%                   10450               10650               25        95.54%

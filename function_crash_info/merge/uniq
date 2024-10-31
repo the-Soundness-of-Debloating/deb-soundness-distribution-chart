@@ -1,0 +1,7 @@
+Function Name                           Count     Percentage          Begin Line          End Line            ID        Sum Percentage
+main                                       33          40.24%                7010                7311         1          40.24
+find_field                                 20          24.39%                6595                6669         2          64.63
+xrealloc                                    9          10.98%                2298                2321         3          75.61
+readlinebuffer_delim                        7           8.54%                5857                5941         4          84.15
+freopen_safer                               2           2.44%                6094                6226         5          86.59
+usage                                       1           1.22%                6503                6559         6          87.80

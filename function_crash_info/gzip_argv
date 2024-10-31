@@ -1,0 +1,25 @@
+Function Name                           Count     Percentage          Begin Line          End Line            ID        Sum Percentage
+inflate_codes                           21        15.91%                   2443                2743                1         15.91%
+get_method                              12        9.09%                   7609                8170                2         25%
+build_tree___0                          11        8.33%                   4576                4703                3         33.33%
+updcrc                                  10        7.58%                   1592                1620                4         40.91%
+strlwr                                  10        7.58%                   1723                1747                5         48.49%
+send_bits                               8         6.06%                   3855                3899                6         54.55%
+ct_init                                 7         5.3%                   4117                4306                7         59.85%
+inflate_dynamic                         6         4.55%                   2961                3373                8         64.4%
+ct_tally                                6         4.55%                   5012                5087                9         68.95%
+do_exit                                 6         4.55%                   8786                8809                10        73.5%
+compress_block                          4         3.03%                   5087                5165                11        76.53%
+main                                    4         3.03%                   6387                6780                12        79.56%
+zip                                     3         2.27%                   5807                6098                13        81.83%
+get_istat                               3         2.27%                   7428                7506                14        84.1%
+gen_codes                               2         1.52%                   4529                4576                15        85.62%
+scan_tree                               2         1.52%                   4703                4781                16        87.14%
+flush_block                             2         1.52%                   4937                5012                17        88.66%
+lm_init                                 2         1.52%                   5247                5333                18        90.18%
+deflate                                 2         1.52%                   5652                5807                19        91.7%
+treat_stdin                             2         1.52%                   6780                6958                20        93.22%
+treat_file                              2         1.52%                   6958                7257                21        94.74%
+bi_windup                               1         0.76%                   3919                3969                22        95.5%
+longest_match                           1         0.76%                   5333                5467                23        96.26%
+make_ofname                             1         0.76%                   7506                7609                24        97.02%

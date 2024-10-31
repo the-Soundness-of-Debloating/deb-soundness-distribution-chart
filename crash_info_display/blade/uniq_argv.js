@@ -1,0 +1,16 @@
+export const blade_uniq_argv = [
+{ crash_loc: 7209, vul_type: "IssueCat-1 Use of uninitialized variable", deb_tool: "Blade" },
+{ crash_loc: 5910, vul_type: "IssueCat-3 Heap-based buffer overflow", deb_tool: "Blade" },
+{ crash_loc: 6187, vul_type: "IssueCat-5 Read memory access", deb_tool: "Blade" },
+{ crash_loc: 7085, vul_type: "IssueCat-5 Read memory access", deb_tool: "Blade" },
+{ crash_loc: 7209, vul_type: "IssueCat-6 Write memory access", deb_tool: "Blade" },
+{ crash_loc: 7011, vul_type: "IssueCat-6 Write memory access", deb_tool: "Blade" },
+{ crash_loc: 2309, vul_type: "IssueCat-7 Direct Leak", deb_tool: "Blade" },
+{ crash_loc: 2309, vul_type: "IssueCat-7 Direct Leak", deb_tool: "Blade" },
+{ crash_loc: 3, vul_type: "IssueCat-7 Direct Leak", deb_tool: "Blade" },
+{ crash_loc: 2309, vul_type: "IssueCat-7 Direct Leak", deb_tool: "Blade" },
+{ crash_loc: 3, vul_type: "IssueCat-7 Direct Leak", deb_tool: "Blade" },
+{ crash_loc: 7209, vul_type: "IssueCat-15 Runtime Error", deb_tool: "Blade" },
+{ crash_loc: 5871, vul_type: "IssueCat-15 Runtime Error", deb_tool: "Blade" },
+{ crash_loc: 6666, vul_type: "IssueCat-15 Runtime Error", deb_tool: "Blade" },
+];

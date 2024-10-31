@@ -1,0 +1,18 @@
+Function Name                           Count     Percentage          Begin Line          End Line            ID        Sum Percentage
+yyparse                                 67        24.1%                   3299                4385                1         24.1%
+parse_datetime                          60        21.58%                   5004                5580                2         45.68%
+main                                    30        10.79%                   9393                9682                3         56.47%
+strftime_case____0                      28        10.07%                   5979                7803                4         66.54%
+yylex                                   20        7.19%                   4702                4960                5         73.73%
+quotearg_buffer_restyled                15        5.4%                   1413                2363                6         79.13%
+lookup_word                             12        4.32%                   4540                4702                7         83.45%
+apply_relative_time                     8         2.88%                   2888                2902                8         86.33%
+batch_convert                           6         2.16%                   9286                9393                9         88.49%
+time_zone_hhmm                          3         1.08%                   4385                4412                10        89.57%
+argmatch                                2         0.72%                   504                 553                 11        90.29%
+lookup_zone                             2         0.72%                   4495                4540                12        91.01%
+show_date                               2         0.72%                   9682                9706                13        91.73%
+xmalloc                                 1         0.36%                   703                 718                 14        92.09%
+set_program_name                        1         0.36%                   2529                2590                15        92.45%
+digits_to_date_time                     1         0.36%                   2843                2888                16        92.81%
+usage                                   1         0.36%                   9141                9286                17        93.17%
